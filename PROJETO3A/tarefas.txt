@@ -1,4 +1,4 @@
-1. Cadastrar cliente 
+1. Cadastrar cliente
 2. Listar cliente
 3. Editar cliente
 
@@ -10,7 +10,15 @@
 8. Listar vendas
 
 9. Login e senha
-    - Cri
+    - Criar um tabela (senha, email/cpf/usuario)
+    - Alterar o index para pedir o login e senha
+    - Cadastrar novos usuários
+        - HASH para salvar a senha.
+
+    - Logar
+        - PHP para verificar a senha
+        - PHP verificar a sessão
+        - Ajuste para sempre verificar a sessão no início de cada página.
 
 -----------------------
 - gerar comprovante de venda
